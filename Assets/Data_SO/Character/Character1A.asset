@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93c5650c085a5424ea384299ba5f63a8, type: 3}
+  m_Name: Character1A
+  m_EditorClassIdentifier: 
+  characterName: "\u5C0F\u84DD"
+  attackType: 1
+  maxHelth: 100
+  attackDamage: 20
+  moveSpeed: 5
+  attackRange: 20
+  _description: "\u6211\u662F\u6CD5\u5E08"
+  sprite: {fileID: 251240225, guid: 0a961a996e573704289c1430f5ae91c5, type: 3}
+  Level: 1
+  maxExp: 10

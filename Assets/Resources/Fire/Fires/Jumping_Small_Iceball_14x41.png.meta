@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 14d6eb89257f986438baf62effca2490
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2429647481413927342
+    second: Jumping_Small_Iceball_14x41_0
+  - first:
+      213: -7379432910325784486
+    second: Jumping_Small_Iceball_14x41_1
+  - first:
+      213: -8882949593162064379
+    second: Jumping_Small_Iceball_14x41_2
+  - first:
+      213: -899968016801207534
+    second: Jumping_Small_Iceball_14x41_3
+  - first:
+      213: 8154701532173180130
+    second: Jumping_Small_Iceball_14x41_4
+  - first:
+      213: -2808926426664880435
+    second: Jumping_Small_Iceball_14x41_5
+  - first:
+      213: 6098180406563940533
+    second: Jumping_Small_Iceball_14x41_6
+  - first:
+      213: -2572961102330217704
+    second: Jumping_Small_Iceball_14x41_7
+  - first:
+      213: -4036496024112508327
+    second: Jumping_Small_Iceball_14x41_8
+  - first:
+      213: -2643394630131516362
+    second: Jumping_Small_Iceball_14x41_9
+  - first:
+      213: -3790333259662169175
+    second: Jumping_Small_Iceball_14x41_10
+  - first:
+      213: 6230736663969345876
+    second: Jumping_Small_Iceball_14x41_11
+  - first:
+      213: -2196145590864910063
+    second: Jumping_Small_Iceball_14x41_12
+  - first:
+      213: -833025243445456473
+    second: Jumping_Small_Iceball_14x41_13
+  - first:
+      213: 7070947741385160458
+    second: Jumping_Small_Iceball_14x41_14
+  - first:
+      213: -369087784885846341
+    second: Jumping_Small_Iceball_14x41_15
+  - first:
+      213: 4645363560406710944
+    second: Jumping_Small_Iceball_14x41_16
+  - first:
+      213: 7717293132188982351
+    second: Jumping_Small_Iceball_14x41_17
+  - first:
+      213: -8335494711223182002
+    second: Jumping_Small_Iceball_14x41_18
+  - first:
+      213: 8525215102706767136
+    second: Jumping_Small_Iceball_14x41_19
+  - first:
+      213: 407801971214456252
+    second: Jumping_Small_Iceball_14x41_20
+  - first:
+      213: 8952760947744863677
+    second: Jumping_Small_Iceball_14x41_21
+  - first:
+      213: -7642543692008296945
+    second: Jumping_Small_Iceball_14x41_22
+  - first:
+      213: -8195161587352962312
+    second: Jumping_Small_Iceball_14x41_23
+  - first:
+      213: 8493820265279939135
+    second: Jumping_Small_Iceball_14x41_24
+  - first:
+      213: -8641254490099225783
+    second: Jumping_Small_Iceball_14x41_25
+  - first:
+      213: -8990194738415307867
+    second: Jumping_Small_Iceball_14x41_26
+  - first:
+      213: -3221451702927185764
+    second: Jumping_Small_Iceball_14x41_27
+  - first:
+      213: -888623594904288862
+    second: Jumping_Small_Iceball_14x41_28
+  - first:
+      213: 3246496703807261622
+    second: Jumping_Small_Iceball_14x41_29
+  - first:
+      213: -3619772931293261420
+    second: Jumping_Small_Iceball_14x41_30
+  - first:
+      213: -5850226622416294991
+    second: Jumping_Small_Iceball_14x41_31
+  - first:
+      213: 1083511967739796559
+    second: Jumping_Small_Iceball_14x41_32
+  - first:
+      213: -3402142978041538076
+    second: Jumping_Small_Iceball_14x41_33
+  - first:
+      213: 126521240484709400
+    second: Jumping_Small_Iceball_14x41_34
+  - first:
+      213: 8029491322142786632
+    second: Jumping_Small_Iceball_14x41_35
+  - first:
+      213: -7999070382898420253
+    second: Jumping_Small_Iceball_14x41_36
+  - first:
+      213: 2970084281671615963
+    second: Jumping_Small_Iceball_14x41_37
+  - first:
+      213: 5257324295246152791
+    second: Jumping_Small_Iceball_14x41_38
+  - first:
+      213: 8740119372539807076
+    second: Jumping_Small_Iceball_14x41_39
+  - first:
+      213: -8757010868910478035
+    second: Jumping_Small_Iceball_14x41_40
+  - first:
+      213: 2773576003527646846
+    second: Jumping_Small_Iceball_14x41_41
+  - first:
+      213: -6770869126075812026
+    second: Jumping_Small_Iceball_14x41_42
+  - first:
+      213: -7400023050221279470
+    second: Jumping_Small_Iceball_14x41_43
+  - first:
+      213: -6880073807514650665
+    second: Jumping_Small_Iceball_14x41_44
+  - first:
+      213: -2153226629650411685
+    second: Jumping_Small_Iceball_14x41_45
+  - first:
+      213: -4211419038628083761
+    second: Jumping_Small_Iceball_14x41_46
+  - first:
+      213: 2961651146954634445
+    second: Jumping_Small_Iceball_14x41_47
+  - first:
+      213: 5848873137995047415
+    second: Jumping_Small_Iceball_14x41_48
+  - first:
+      213: 679688417264747288
+    second: Jumping_Small_Iceball_14x41_49
+  - first:
+      213: -5936927424351524457
+    second: Jumping_Small_Iceball_14x41_50
+  - first:
+      213: -7295414946538467797
+    second: Jumping_Small_Iceball_14x41_51
+  - first:
+      213: -6978973079869882105
+    second: Jumping_Small_Iceball_14x41_52
+  - first:
+      213: -5341975239027653581
+    second: Jumping_Small_Iceball_14x41_53
+  - first:
+      213: 123458950105165955
+    second: Jumping_Small_Iceball_14x41_54
+  - first:
+      213: -2480474179369905902
+    second: Jumping_Small_Iceball_14x41_55
+  - first:
+      213: 4186525733296779961
+    second: Jumping_Small_Iceball_14x41_56
+  - first:
+      213: -767902292543870104
+    second: Jumping_Small_Iceball_14x41_57
+  - first:
+      213: -784410038189868978
+    second: Jumping_Small_Iceball_14x41_58
+  - first:
+      213: -5977402304526195942
+    second: Jumping_Small_Iceball_14x41_59
+  - first:
+      213: 2763203551991723089
+    second: Jumping_Small_Iceball_14x41_60
+  - first:
+      213: -6307073091805723983
+    second: Jumping_Small_Iceball_14x41_61
+  - first:
+      213: 4050140371639897036
+    second: Jumping_Small_Iceball_14x41_62
+  - first:
+      213: 1027175655571382165
+    second: Jumping_Small_Iceball_14x41_63
+  - first:
+      213: -8537194849826832067
+    second: Jumping_Small_Iceball_14x41_64
+  - first:
+      213: 1641261064446019925
+    second: Jumping_Small_Iceball_14x41_65
+  - first:
+      213: 4877728127200446868
+    second: Jumping_Small_Iceball_14x41_66
+  - first:
+      213: 1765948753023432224
+    second: Jumping_Small_Iceball_14x41_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a4e2029d7ffff4a936bb40861fa2c4
+      internalID: 509212065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf1b75707204f4419ac520a8fa8d13b
+      internalID: 344253122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577083470ccc7b4bb4dbd9e942606a1
+      internalID: 1979409561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d670e99e5152c44b2d47059fdd2b5d
+      internalID: 299387892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85100317499ced7438926f8adac9f23f
+      internalID: -2054543266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a9c4df9575b3048b584e355fe1c234
+      internalID: -444698101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a7c6c1b579ca743842024cd4c04397
+      internalID: -406259205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f439ad42f28644bbff012bfe8f1db
+      internalID: -1764620155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c450066ff736c46ae1d3615885c050
+      internalID: -377636956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 205
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005829de8ad9cd84b8411c330e712344
+      internalID: 1205129031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd011fda785c447accaba333fd58fe
+      internalID: -452973563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c9ebe5a5fd5c4f966f53209e9d113
+      internalID: -968256674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25888259adb17141acded562417aa04
+      internalID: 1534146785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7880196a89afe204396d3fefcee3acd2
+      internalID: 708009864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ce3ccc71e5274dbe26614b1fc649c
+      internalID: -311900678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c211813573fe0c048997b9b2a3a8c88d
+      internalID: 55630353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66e77c2b7b9394683bf231ee4b8dcf
+      internalID: 1549979935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced847fe0796e442bbbde2555de3365
+      internalID: -1045357536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87e76fd72fdb984bb1b47031b336c96
+      internalID: -2114327645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 164
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b7e591648e1c4d87e0bd69a7146a4
+      internalID: -1101805390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a39a1cceca91744a548171a2820056
+      internalID: 481316465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4435dc8df71974fb31c194242b8da5
+      internalID: -1771615181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f752a9d29218cc44a6aadf8827befbb
+      internalID: -896391885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3f736b20622d439a516302c7e6242
+      internalID: 1179570854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabee2721e1100549b06f3de5274f17c
+      internalID: -771091102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0b19842e81654ebd4cefdbc1c7af9
+      internalID: -220054218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986954de974869e4fb614f8a6fdfff05
+      internalID: -292095567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad0ccc699effc4986c040d94363615
+      internalID: 1338165681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade324e9bf788f418acddba3962cf88
+      internalID: 2034171602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 123
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2156ab7d3a344aa2dae56de7a033e
+      internalID: -2039141283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aab7120457a9541ae4c437db18616b
+      internalID: 569611048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0775e48d35935c4793cb12a342053dc
+      internalID: -1476004229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c55855fb471884083e961ceee55bc5
+      internalID: -517907522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e885176e3ec3e941ac265682ee0304b
+      internalID: 1324894303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb5ad0c5e406d4ebd8385361f6bbd0
+      internalID: 1200611244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f123d23ae97e4cbe0a3594b889020
+      internalID: -1065136218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056888da9605c24fa5b4d49e000b396
+      internalID: 1308942394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf90868d852b8846ae3ce6e6994edf9
+      internalID: 1936299448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61717fe9f3f3855449af4d7a5150cd14
+      internalID: -1935442704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 82
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6f00372f05dd468e6e55487928466
+      internalID: -751542202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f572a373afa14e82829fc4e44e3a5
+      internalID: 802712465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59ec6201153d147bf829d7440c1d0a
+      internalID: 1221228558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfe1a3c91ca7b4aad05313a610a1f7
+      internalID: -734786102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9495babb503455a469c0736236261a6e
+      internalID: 889163213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ee73d8f809404ea604bd4f00694bc
+      internalID: -1324288979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fc5b08f89bddb458a1e743784a8928
+      internalID: -1557898822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03730b1bc43b0479cad76adcefb9ec
+      internalID: -805197288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e74116e61bac7649a5b9b6d0f867b4b
+      internalID: 93935120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a8ebfb38eaecb43ad9589b0d7ee732
+      internalID: 413387752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_49
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af179e7c19199748b8af49f114e8bfd
+      internalID: 308152911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d9fb39ad07984493ed44934635e84
+      internalID: 1622175352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574323861f13cce42b936f272aa3ff83
+      internalID: -1481924056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190bca2cb20839645828dd9e15c0eff4
+      internalID: -1428110226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b5328da2f82214d8d34add0641b885
+      internalID: 1474542239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5255b225efa1a2d4098c63b0ef11108e
+      internalID: -1193497767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32937a46bbb20e4b99fa10cba1b1063
+      internalID: 1568394238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd407e65575dd4ea07e93debfc75c7
+      internalID: -1944611966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c962f3afea284ebf55c26770e3f0a
+      internalID: 1486269340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1780272da555a147b809bf84c888e75
+      internalID: -1657224173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Iceball_14x41_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c9461199186a44bee7cd2ff1bdb9d
+      internalID: 647840422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92d79cfe9375d87449bdc3221e5e4a86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jumping_Small_Iceball_14x41_0: 509212065
+      Jumping_Small_Iceball_14x41_1: 344253122
+      Jumping_Small_Iceball_14x41_10: -452973563
+      Jumping_Small_Iceball_14x41_11: -968256674
+      Jumping_Small_Iceball_14x41_12: 1534146785
+      Jumping_Small_Iceball_14x41_13: 708009864
+      Jumping_Small_Iceball_14x41_14: -311900678
+      Jumping_Small_Iceball_14x41_15: 55630353
+      Jumping_Small_Iceball_14x41_16: 1549979935
+      Jumping_Small_Iceball_14x41_17: -1045357536
+      Jumping_Small_Iceball_14x41_18: -2114327645
+      Jumping_Small_Iceball_14x41_19: -1101805390
+      Jumping_Small_Iceball_14x41_2: 1979409561
+      Jumping_Small_Iceball_14x41_20: 481316465
+      Jumping_Small_Iceball_14x41_21: -1771615181
+      Jumping_Small_Iceball_14x41_22: -896391885
+      Jumping_Small_Iceball_14x41_23: 1179570854
+      Jumping_Small_Iceball_14x41_24: -771091102
+      Jumping_Small_Iceball_14x41_25: -220054218
+      Jumping_Small_Iceball_14x41_26: -292095567
+      Jumping_Small_Iceball_14x41_27: 1338165681
+      Jumping_Small_Iceball_14x41_28: 2034171602
+      Jumping_Small_Iceball_14x41_29: -2039141283
+      Jumping_Small_Iceball_14x41_3: 299387892
+      Jumping_Small_Iceball_14x41_30: 569611048
+      Jumping_Small_Iceball_14x41_31: -1476004229
+      Jumping_Small_Iceball_14x41_32: -517907522
+      Jumping_Small_Iceball_14x41_33: 1324894303
+      Jumping_Small_Iceball_14x41_34: 1200611244
+      Jumping_Small_Iceball_14x41_35: -1065136218
+      Jumping_Small_Iceball_14x41_36: 1308942394
+      Jumping_Small_Iceball_14x41_37: 1936299448
+      Jumping_Small_Iceball_14x41_38: -1935442704
+      Jumping_Small_Iceball_14x41_39: -751542202
+      Jumping_Small_Iceball_14x41_4: -2054543266
+      Jumping_Small_Iceball_14x41_40: 802712465
+      Jumping_Small_Iceball_14x41_41: 1221228558
+      Jumping_Small_Iceball_14x41_42: -734786102
+      Jumping_Small_Iceball_14x41_43: 889163213
+      Jumping_Small_Iceball_14x41_44: -1324288979
+      Jumping_Small_Iceball_14x41_45: -1557898822
+      Jumping_Small_Iceball_14x41_46: -805197288
+      Jumping_Small_Iceball_14x41_47: 93935120
+      Jumping_Small_Iceball_14x41_48: 413387752
+      Jumping_Small_Iceball_14x41_49: 308152911
+      Jumping_Small_Iceball_14x41_5: -444698101
+      Jumping_Small_Iceball_14x41_50: 1622175352
+      Jumping_Small_Iceball_14x41_51: -1481924056
+      Jumping_Small_Iceball_14x41_52: -1428110226
+      Jumping_Small_Iceball_14x41_53: 1474542239
+      Jumping_Small_Iceball_14x41_54: -1193497767
+      Jumping_Small_Iceball_14x41_55: 1568394238
+      Jumping_Small_Iceball_14x41_56: -1944611966
+      Jumping_Small_Iceball_14x41_57: 1486269340
+      Jumping_Small_Iceball_14x41_58: -1657224173
+      Jumping_Small_Iceball_14x41_59: 647840422
+      Jumping_Small_Iceball_14x41_6: -406259205
+      Jumping_Small_Iceball_14x41_7: -1764620155
+      Jumping_Small_Iceball_14x41_8: -377636956
+      Jumping_Small_Iceball_14x41_9: 1205129031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

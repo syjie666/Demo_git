@@ -1,0 +1,2065 @@
+fileFormatVersion: 2
+guid: c9d4f056fe83d3044ba88e28820c6d2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7078179825476556005
+    second: Jumping_Small_Blackball_14x45_0
+  - first:
+      213: 2206047853473789599
+    second: Jumping_Small_Blackball_14x45_1
+  - first:
+      213: 4867054930764946372
+    second: Jumping_Small_Blackball_14x45_2
+  - first:
+      213: 365434877848463553
+    second: Jumping_Small_Blackball_14x45_3
+  - first:
+      213: 2062682506060895157
+    second: Jumping_Small_Blackball_14x45_4
+  - first:
+      213: -5917066312003324586
+    second: Jumping_Small_Blackball_14x45_5
+  - first:
+      213: -412688314591295605
+    second: Jumping_Small_Blackball_14x45_6
+  - first:
+      213: 8574335359164779118
+    second: Jumping_Small_Blackball_14x45_7
+  - first:
+      213: -4070717192628657121
+    second: Jumping_Small_Blackball_14x45_8
+  - first:
+      213: 7583919775786328007
+    second: Jumping_Small_Blackball_14x45_9
+  - first:
+      213: -3398537996216300816
+    second: Jumping_Small_Blackball_14x45_10
+  - first:
+      213: 2533623432282752459
+    second: Jumping_Small_Blackball_14x45_11
+  - first:
+      213: -2521221196007310746
+    second: Jumping_Small_Blackball_14x45_12
+  - first:
+      213: -5139688643691448170
+    second: Jumping_Small_Blackball_14x45_13
+  - first:
+      213: -1061334206361446984
+    second: Jumping_Small_Blackball_14x45_14
+  - first:
+      213: 9161441907089035012
+    second: Jumping_Small_Blackball_14x45_15
+  - first:
+      213: 8959643561138026504
+    second: Jumping_Small_Blackball_14x45_16
+  - first:
+      213: -1314921400479572641
+    second: Jumping_Small_Blackball_14x45_17
+  - first:
+      213: 5085822402085481050
+    second: Jumping_Small_Blackball_14x45_18
+  - first:
+      213: -1256333953730729976
+    second: Jumping_Small_Blackball_14x45_19
+  - first:
+      213: 296150908505322527
+    second: Jumping_Small_Blackball_14x45_20
+  - first:
+      213: -5268102727136926750
+    second: Jumping_Small_Blackball_14x45_21
+  - first:
+      213: -6188042264296910340
+    second: Jumping_Small_Blackball_14x45_22
+  - first:
+      213: 4460820542502261845
+    second: Jumping_Small_Blackball_14x45_23
+  - first:
+      213: -7000313767182422127
+    second: Jumping_Small_Blackball_14x45_24
+  - first:
+      213: 2091081503127476661
+    second: Jumping_Small_Blackball_14x45_25
+  - first:
+      213: -2145962163841826747
+    second: Jumping_Small_Blackball_14x45_26
+  - first:
+      213: 8999786303931307513
+    second: Jumping_Small_Blackball_14x45_27
+  - first:
+      213: 3064210778747568130
+    second: Jumping_Small_Blackball_14x45_28
+  - first:
+      213: 8721321161059069926
+    second: Jumping_Small_Blackball_14x45_29
+  - first:
+      213: -7240182183162697745
+    second: Jumping_Small_Blackball_14x45_30
+  - first:
+      213: -5726770145589659075
+    second: Jumping_Small_Blackball_14x45_31
+  - first:
+      213: -6096183221904176787
+    second: Jumping_Small_Blackball_14x45_32
+  - first:
+      213: 2680958803125017805
+    second: Jumping_Small_Blackball_14x45_33
+  - first:
+      213: 6012565227298433600
+    second: Jumping_Small_Blackball_14x45_34
+  - first:
+      213: 4880055256004723784
+    second: Jumping_Small_Blackball_14x45_35
+  - first:
+      213: 6097924045868202832
+    second: Jumping_Small_Blackball_14x45_36
+  - first:
+      213: -5654046637766239583
+    second: Jumping_Small_Blackball_14x45_37
+  - first:
+      213: -6242811657571363924
+    second: Jumping_Small_Blackball_14x45_38
+  - first:
+      213: 4823674165065180104
+    second: Jumping_Small_Blackball_14x45_39
+  - first:
+      213: 7248622976652194642
+    second: Jumping_Small_Blackball_14x45_40
+  - first:
+      213: -7134350976653992362
+    second: Jumping_Small_Blackball_14x45_41
+  - first:
+      213: -4728934246759338757
+    second: Jumping_Small_Blackball_14x45_42
+  - first:
+      213: 848151179232995683
+    second: Jumping_Small_Blackball_14x45_43
+  - first:
+      213: -9218255845436485562
+    second: Jumping_Small_Blackball_14x45_44
+  - first:
+      213: 7637886883395927953
+    second: Jumping_Small_Blackball_14x45_45
+  - first:
+      213: -5762005980692951315
+    second: Jumping_Small_Blackball_14x45_46
+  - first:
+      213: 1815122859573728033
+    second: Jumping_Small_Blackball_14x45_47
+  - first:
+      213: 3754869408691327725
+    second: Jumping_Small_Blackball_14x45_48
+  - first:
+      213: -6711769075343824559
+    second: Jumping_Small_Blackball_14x45_49
+  - first:
+      213: 4938080688490535763
+    second: Jumping_Small_Blackball_14x45_50
+  - first:
+      213: 6716598517975686296
+    second: Jumping_Small_Blackball_14x45_51
+  - first:
+      213: -6649460824595294714
+    second: Jumping_Small_Blackball_14x45_52
+  - first:
+      213: 7440549658919946404
+    second: Jumping_Small_Blackball_14x45_53
+  - first:
+      213: 6639264426780463789
+    second: Jumping_Small_Blackball_14x45_54
+  - first:
+      213: -3732918650585403771
+    second: Jumping_Small_Blackball_14x45_55
+  - first:
+      213: 6455892142401140552
+    second: Jumping_Small_Blackball_14x45_56
+  - first:
+      213: -8743999267694382995
+    second: Jumping_Small_Blackball_14x45_57
+  - first:
+      213: -5274568895191123794
+    second: Jumping_Small_Blackball_14x45_58
+  - first:
+      213: -2429073468393020853
+    second: Jumping_Small_Blackball_14x45_59
+  - first:
+      213: -4225439894109687220
+    second: Jumping_Small_Blackball_14x45_60
+  - first:
+      213: -4718407703234973235
+    second: Jumping_Small_Blackball_14x45_61
+  - first:
+      213: -6232414198513326248
+    second: Jumping_Small_Blackball_14x45_62
+  - first:
+      213: 3637084315840258110
+    second: Jumping_Small_Blackball_14x45_63
+  - first:
+      213: -3957626012838394090
+    second: Jumping_Small_Blackball_14x45_64
+  - first:
+      213: 6801229353813530220
+    second: Jumping_Small_Blackball_14x45_65
+  - first:
+      213: 3353360589366505345
+    second: Jumping_Small_Blackball_14x45_66
+  - first:
+      213: -3982837017823702859
+    second: Jumping_Small_Blackball_14x45_67
+  - first:
+      213: -4418283950499621739
+    second: Jumping_Small_Blackball_14x45_68
+  - first:
+      213: 4391059152080620683
+    second: Jumping_Small_Blackball_14x45_69
+  - first:
+      213: -5218641443886481819
+    second: Jumping_Small_Blackball_14x45_70
+  - first:
+      213: -6117454488775451335
+    second: Jumping_Small_Blackball_14x45_71
+  - first:
+      213: 8641037004152938975
+    second: Jumping_Small_Blackball_14x45_72
+  - first:
+      213: -3621357037605437735
+    second: Jumping_Small_Blackball_14x45_73
+  - first:
+      213: 5076587576142003899
+    second: Jumping_Small_Blackball_14x45_74
+  - first:
+      213: 3602217676425570093
+    second: Jumping_Small_Blackball_14x45_75
+  - first:
+      213: 4574469004270573007
+    second: Jumping_Small_Blackball_14x45_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4ddd9ac0fba3260800000000000000
+      internalID: 7078179825476556005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9671d7a5d47d9e10800000000000000
+      internalID: 2206047853473789599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbde8a3ca04b8340800000000000000
+      internalID: 4867054930764946372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 244
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c822b2d519421500800000000000000
+      internalID: 365434877848463553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 230
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b31c2a8fce10ac10800000000000000
+      internalID: 2062682506060895157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 244
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6557c980a8b52eda0800000000000000
+      internalID: -5917066312003324586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 230
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87c4d51a26d54af0800000000000000
+      internalID: -412688314591295605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 245
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a861494982ef670800000000000000
+      internalID: 8574335359164779118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 233
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f142b48e748e187c0800000000000000
+      internalID: -4070717192628657121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 232
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfddc0dade7f3960800000000000000
+      internalID: 7583919775786328007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 232
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa0cdbd2b7f5d0d0800000000000000
+      internalID: -3398537996216300816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 249
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c1d3861d392320800000000000000
+      internalID: 2533623432282752459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 245
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a7cc32ea2d20dd0800000000000000
+      internalID: -2521221196007310746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 249
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69879a8e8682ca8b0800000000000000
+      internalID: -5139688643691448170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5dad999226541f0800000000000000
+      internalID: -1061334206361446984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4b6600eaf32f70800000000000000
+      internalID: 9161441907089035012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 203
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8087fbf395c075c70800000000000000
+      internalID: 8959643561138026504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 201
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d1bd8f3f570cde0800000000000000
+      internalID: -1314921400479572641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a67036788749640800000000000000
+      internalID: 5085822402085481050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 197
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8082e98ecea909ee0800000000000000
+      internalID: -1256333953730729976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 196
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f147e55aea32c1400800000000000000
+      internalID: 296150908505322527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3acb43b70f3e6b0800000000000000
+      internalID: -5268102727136926750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 193
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf19a75a858af1aa0800000000000000
+      internalID: -6188042264296910340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 190
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554dc9226a408ed30800000000000000
+      internalID: 4460820542502261845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fa0dec7b3e9de90800000000000000
+      internalID: -7000313767182422127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 174
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b99d4e4c83050d10800000000000000
+      internalID: 2091081503127476661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 142
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54087c228c20832e0800000000000000
+      internalID: -2145962163841826747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 172
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f55044e5f9a5ec70800000000000000
+      internalID: 8999786303931307513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 175
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2000c28e773468a20800000000000000
+      internalID: 3064210778747568130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 141
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe501736b580970800000000000000
+      internalID: 8721321161059069926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 139
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7a97f1aa4b58b90800000000000000
+      internalID: -7240182183162697745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 110
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af0d1f4ec6680b0800000000000000
+      internalID: -5726770145589659075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 141
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6984bc98a1066ba0800000000000000
+      internalID: -6096183221904176787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 138
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc19bdb3dda43520800000000000000
+      internalID: 2680958803125017805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 120
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a2df1e73ce07350800000000000000
+      internalID: 6012565227298433600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 136
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8448072566079b340800000000000000
+      internalID: 4880055256004723784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 159
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b794d8c9d20a450800000000000000
+      internalID: 6097924045868202832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 136
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa93741a8ac881b0800000000000000
+      internalID: -5654046637766239583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 159
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca39ace8fd31d59a0800000000000000
+      internalID: -6242811657571363924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c360f0a81221f240800000000000000
+      internalID: 4823674165065180104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b6124138489460800000000000000
+      internalID: 7248622976652194642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 90
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed39d0691bdfc90800000000000000
+      internalID: -7134350976653992362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 108
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfceab78b537f5eb0800000000000000
+      internalID: -4728934246759338757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369e20af00d35cb00800000000000000
+      internalID: 848151179232995683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 90
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6401714262d221080800000000000000
+      internalID: -9218255845436485562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ffd6737a93ff960800000000000000
+      internalID: 7637886883395927953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 90
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deece17c61e3900b0800000000000000
+      internalID: -5762005980692951315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 90
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1235594bf9c903910800000000000000
+      internalID: 1815122859573728033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 90
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2170345d9fb1430800000000000000
+      internalID: 3754869408691327725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159eda126910bd2a0800000000000000
+      internalID: -6711769075343824559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 90
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bd1bd1936978440800000000000000
+      internalID: 4938080688490535763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_51
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 90
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1bda14c6263d50800000000000000
+      internalID: 6716598517975686296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6061f124c9e58b3a0800000000000000
+      internalID: -6649460824595294714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c3993e74224760800000000000000
+      internalID: 7440549658919946404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 45
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21320e1d7632c50800000000000000
+      internalID: 6639264426780463789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_55
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e2d60e342023cc0800000000000000
+      internalID: -3732918650585403771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 45
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8473e00e2bfe79950800000000000000
+      internalID: 6455892142401140552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60fcc46ef217a680800000000000000
+      internalID: -8743999267694382995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 44
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fec22987fcc6b0800000000000000
+      internalID: -5274568895191123794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 44
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42ab1fdc823a4ed0800000000000000
+      internalID: -2429073468393020853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 44
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42f3dbbdc83c55c0800000000000000
+      internalID: -4225439894109687220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 44
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1763f6139d48eb0800000000000000
+      internalID: -4718407703234973235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572384ae440289a0800000000000000
+      internalID: -6232414198513326248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30adc74ae4897230800000000000000
+      internalID: 3637084315840258110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6170ce61c10b319c0800000000000000
+      internalID: -3957626012838394090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66d3061012d26e50800000000000000
+      internalID: 6801229353813530220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2cfc60b7898e20800000000000000
+      internalID: 3353360589366505345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0975295de1ab8c0800000000000000
+      internalID: -3982837017823702859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_68
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59419a5f72a1fa2c0800000000000000
+      internalID: -4418283950499621739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c4e73b80d20fc30800000000000000
+      internalID: 4391059152080620683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_70
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eb30f9149a397b0800000000000000
+      internalID: -5218641443886481819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d9beadd8f6a1ba0800000000000000
+      internalID: -6117454488775451335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1aa838f512be770800000000000000
+      internalID: 8641037004152938975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_73
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9debaa806fa5ebdc0800000000000000
+      internalID: -3621357037605437735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbefa1be089a37640800000000000000
+      internalID: 5076587576142003899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27aafe24e5adf130800000000000000
+      internalID: 3602217676425570093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Blackball_14x45_76
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc51593a257cb7f30800000000000000
+      internalID: 4574469004270573007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jumping_Small_Blackball_14x45_0: 7078179825476556005
+      Jumping_Small_Blackball_14x45_1: 2206047853473789599
+      Jumping_Small_Blackball_14x45_10: -3398537996216300816
+      Jumping_Small_Blackball_14x45_11: 2533623432282752459
+      Jumping_Small_Blackball_14x45_12: -2521221196007310746
+      Jumping_Small_Blackball_14x45_13: -5139688643691448170
+      Jumping_Small_Blackball_14x45_14: -1061334206361446984
+      Jumping_Small_Blackball_14x45_15: 9161441907089035012
+      Jumping_Small_Blackball_14x45_16: 8959643561138026504
+      Jumping_Small_Blackball_14x45_17: -1314921400479572641
+      Jumping_Small_Blackball_14x45_18: 5085822402085481050
+      Jumping_Small_Blackball_14x45_19: -1256333953730729976
+      Jumping_Small_Blackball_14x45_2: 4867054930764946372
+      Jumping_Small_Blackball_14x45_20: 296150908505322527
+      Jumping_Small_Blackball_14x45_21: -5268102727136926750
+      Jumping_Small_Blackball_14x45_22: -6188042264296910340
+      Jumping_Small_Blackball_14x45_23: 4460820542502261845
+      Jumping_Small_Blackball_14x45_24: -7000313767182422127
+      Jumping_Small_Blackball_14x45_25: 2091081503127476661
+      Jumping_Small_Blackball_14x45_26: -2145962163841826747
+      Jumping_Small_Blackball_14x45_27: 8999786303931307513
+      Jumping_Small_Blackball_14x45_28: 3064210778747568130
+      Jumping_Small_Blackball_14x45_29: 8721321161059069926
+      Jumping_Small_Blackball_14x45_3: 365434877848463553
+      Jumping_Small_Blackball_14x45_30: -7240182183162697745
+      Jumping_Small_Blackball_14x45_31: -5726770145589659075
+      Jumping_Small_Blackball_14x45_32: -6096183221904176787
+      Jumping_Small_Blackball_14x45_33: 2680958803125017805
+      Jumping_Small_Blackball_14x45_34: 6012565227298433600
+      Jumping_Small_Blackball_14x45_35: 4880055256004723784
+      Jumping_Small_Blackball_14x45_36: 6097924045868202832
+      Jumping_Small_Blackball_14x45_37: -5654046637766239583
+      Jumping_Small_Blackball_14x45_38: -6242811657571363924
+      Jumping_Small_Blackball_14x45_39: 4823674165065180104
+      Jumping_Small_Blackball_14x45_4: 2062682506060895157
+      Jumping_Small_Blackball_14x45_40: 7248622976652194642
+      Jumping_Small_Blackball_14x45_41: -7134350976653992362
+      Jumping_Small_Blackball_14x45_42: -4728934246759338757
+      Jumping_Small_Blackball_14x45_43: 848151179232995683
+      Jumping_Small_Blackball_14x45_44: -9218255845436485562
+      Jumping_Small_Blackball_14x45_45: 7637886883395927953
+      Jumping_Small_Blackball_14x45_46: -5762005980692951315
+      Jumping_Small_Blackball_14x45_47: 1815122859573728033
+      Jumping_Small_Blackball_14x45_48: 3754869408691327725
+      Jumping_Small_Blackball_14x45_49: -6711769075343824559
+      Jumping_Small_Blackball_14x45_5: -5917066312003324586
+      Jumping_Small_Blackball_14x45_50: 4938080688490535763
+      Jumping_Small_Blackball_14x45_51: 6716598517975686296
+      Jumping_Small_Blackball_14x45_52: -6649460824595294714
+      Jumping_Small_Blackball_14x45_53: 7440549658919946404
+      Jumping_Small_Blackball_14x45_54: 6639264426780463789
+      Jumping_Small_Blackball_14x45_55: -3732918650585403771
+      Jumping_Small_Blackball_14x45_56: 6455892142401140552
+      Jumping_Small_Blackball_14x45_57: -8743999267694382995
+      Jumping_Small_Blackball_14x45_58: -5274568895191123794
+      Jumping_Small_Blackball_14x45_59: -2429073468393020853
+      Jumping_Small_Blackball_14x45_6: -412688314591295605
+      Jumping_Small_Blackball_14x45_60: -4225439894109687220
+      Jumping_Small_Blackball_14x45_61: -4718407703234973235
+      Jumping_Small_Blackball_14x45_62: -6232414198513326248
+      Jumping_Small_Blackball_14x45_63: 3637084315840258110
+      Jumping_Small_Blackball_14x45_64: -3957626012838394090
+      Jumping_Small_Blackball_14x45_65: 6801229353813530220
+      Jumping_Small_Blackball_14x45_66: 3353360589366505345
+      Jumping_Small_Blackball_14x45_67: -3982837017823702859
+      Jumping_Small_Blackball_14x45_68: -4418283950499621739
+      Jumping_Small_Blackball_14x45_69: 4391059152080620683
+      Jumping_Small_Blackball_14x45_7: 8574335359164779118
+      Jumping_Small_Blackball_14x45_70: -5218641443886481819
+      Jumping_Small_Blackball_14x45_71: -6117454488775451335
+      Jumping_Small_Blackball_14x45_72: 8641037004152938975
+      Jumping_Small_Blackball_14x45_73: -3621357037605437735
+      Jumping_Small_Blackball_14x45_74: 5076587576142003899
+      Jumping_Small_Blackball_14x45_75: 3602217676425570093
+      Jumping_Small_Blackball_14x45_76: 4574469004270573007
+      Jumping_Small_Blackball_14x45_8: -4070717192628657121
+      Jumping_Small_Blackball_14x45_9: 7583919775786328007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
