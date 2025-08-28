@@ -8,7 +8,7 @@ public class AttackerCharacter_SO : Character_SO
     [Header("¹¥·½×¨Êô")]
     public int Level=1;
     public int maxExp=10;
-
+    public int childID;
     
 }
 

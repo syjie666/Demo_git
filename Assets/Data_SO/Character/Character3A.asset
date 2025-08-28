@@ -22,3 +22,4 @@ MonoBehaviour:
   sprite: {fileID: 1156929, guid: 0a961a996e573704289c1430f5ae91c5, type: 3}
   Level: 0
   maxExp: 0
+  childID: 2

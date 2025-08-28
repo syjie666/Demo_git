@@ -24,11 +24,12 @@ public class EventCenter : MonoBehaviour
             return _instance;
         }
     }
-    public event Action<GameObject,int> OnRangedAttackHit;//定义远程攻击事件 接收方
-    public event Action <GameObject,int>OnAttackHit;//定义近战攻击事件
+    public event Action<GameObject, int> OnRangedAttackHit;//定义远程攻击事件 接收方
+    public event Action<GameObject, int> OnAttackHit;//定义近战攻击事件
     public event Action OnCameraShake;//定义摄像机抖动事件
     public event Action OnOpenSelectUI;//定义选择Buff事件
     public event Action<GameObject> OnEnemyKilled;//定义敌人死亡事件
+    public event Action <int>OnSetCharactger;//定义生成角色事件
     private void Awake()
     {
         if (_instance != null && _instance != this)
@@ -39,13 +40,13 @@ public class EventCenter : MonoBehaviour
         _instance = this;
         DontDestroyOnLoad(gameObject);
     }
-    public void RangedAttackeHit(GameObject hitTarget,int value)//调用远程攻击事件  发出方
+    public void RangedAttackeHit(GameObject hitTarget, int value)//调用远程攻击事件  发出方
     {
-        OnRangedAttackHit?.Invoke(hitTarget,value);
+        OnRangedAttackHit?.Invoke(hitTarget, value);
     }
-    public void AttackHit(GameObject hitTarget,int value)//调用近战攻击事件
+    public void AttackHit(GameObject hitTarget, int value)//调用近战攻击事件
     {
-        OnAttackHit?.Invoke(hitTarget,value);
+        OnAttackHit?.Invoke(hitTarget, value);
     }
     public void StartShake()//调用摄像机抖动事件
     {
@@ -58,6 +59,10 @@ public class EventCenter : MonoBehaviour
     public void TriggerEnemyKilled(GameObject enemy)
     {
         OnEnemyKilled?.Invoke(enemy);
+    }
+    public void AfterChoseCharacter(int ID)
+    {
+        OnSetCharactger?.Invoke(ID);
     }
 
 }

@@ -9,5 +9,7 @@ public class SceneTransform : MonoBehaviour
     {
         Debug.Log("开始场景转换到" + scene_);
         SceneManager.LoadSceneAsync(scene_);
+        
     }
+    
 }

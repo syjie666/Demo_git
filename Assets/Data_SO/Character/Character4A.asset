@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93c5650c085a5424ea384299ba5f63a8, type: 3}
   m_Name: Character4A
   m_EditorClassIdentifier: 
-  characterName: "\u5C0F\u7EA2"
+  characterName: "\u5C0F\u7C89"
   attackType: 0
-  maxHelth: 0
-  attackDamage: 0
-  moveSpeed: 0
-  attackRange: 0
+  maxHelth: 100
+  attackDamage: 20
+  moveSpeed: 5
+  attackRange: 20
   _description: "\u4F60\u731C\u6211\u662F\u5565"
-  sprite: {fileID: 920747635, guid: 0a961a996e573704289c1430f5ae91c5, type: 3}
-  Level: 0
-  maxExp: 0
+  sprite: {fileID: -1652904099, guid: 0a961a996e573704289c1430f5ae91c5, type: 3}
+  Level: 1
+  maxExp: 10
+  childID: 3
